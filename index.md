@@ -1,11 +1,20 @@
 ---
 layout: cv
-title: Cory Whitney
+title: Cory Whitney's CV
 ---
+# Cory Whitney
+
+
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
+
 
 ## Currently
 
-Standing on the shoulders of giants
+Department of Horticultural Sciences, University of Bonn
 
 ### Specialized in
 
