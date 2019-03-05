@@ -3,8 +3,6 @@ layout: cv
 title: Cory Whitney
 ---
 
-
-
 ## Currently
 
 Standing on the shoulders of giants
