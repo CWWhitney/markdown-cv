@@ -56,8 +56,7 @@ Associate, *French Academy of Science*, Paris, France
 `Since 10/2016`
 __University of Bonn, Germany, Postdoctoral researcher, Institute for Horticultural Research (INRES) / Guest researcher, Center for Development Research (ZEF)__, Bonn
 
-- Warden
-- Minted coins
+
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
