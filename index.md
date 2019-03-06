@@ -7,8 +7,8 @@ title: Cory Whitney's CV
 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cory.whitney@uni-bonn.de">cory.whitney@uni-bonn.de</a>
+| <a href="https://cwwhitney.github.io">My GitHub web page</a>
 </div>
 
 
@@ -18,28 +18,28 @@ Department of Horticultural Sciences, University of Bonn
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Seeking solutions to the interconnected issues of loss of biodiversity, loss of traditional culture, and food insecurity.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+decision theory, human ecology, ethnobotany.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`11/2014-07/2018`
+__Ph.D.__ University of Kassel, Witzenhausen, Germany
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09/2009-05/2011`
+__M.Sc. Sustainable International Agriculture / International Organic Agriculture__, University of Kassel & University of Göttingen, Germany
 
-- Sizar
+`09/2001-06/2003`
+__B.A. Human Ecology__, College of the Atlantic, Bar Harbor, Maine
 
-`1667 - death`
-__Trinity College, Cambridge__
+`09/1999-06/2001`
+__A.A. Natural Resources Management__, Sterling College, Vermont
 
-- Fellow
 
 
 
@@ -49,6 +49,18 @@ __Trinity College, Cambridge__
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
+
+
+## Employment
+
+`Since 10/2016`
+__University of Bonn, Germany, Postdoctoral researcher, Institute for Horticultural Research (INRES) / Guest researcher, Center for Development Research (ZEF)__, Bonn
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
 
@@ -65,24 +77,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
