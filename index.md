@@ -70,7 +70,7 @@ __Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social
 
 <!-- A list is also available [orcid](orcid.org/0000-0003-4988-4583) -->
 
-###Refereed Journal Articles
+### Refereed Journal Articles
 
 `2019`
 Lanzanova, D., Whitney, C., Shepherd, K., Luedeling, E. Improving development efficiency through decision analysis: reservoir protection in Burkina Faso. 115, 164-175. doi: 10.1016/j.envsoft.2019.01.016
@@ -93,7 +93,7 @@ Whitney, C., Vang Sin, M., Lê Hồng, G., Can, V., Barber, K., Lanh, T. Learnin
 	
 Gebauer, J., Whitney, C., Tabuti, J. First record of baobab (Adansonia digitata L.) in Uganda. Genetic Resources and Crop Evolution. 63(5), 755-762. doi: 10.1007/s10722-016-0387-y
 
-###Reviews
+### Reviews
 
 <!-- A list is also available [publons](publons.com/a/462597/) -->
 
@@ -141,14 +141,14 @@ __American Sail Training Association (ASTA) Fleet of Tall Ships__
 `2012`	Ethnobotany studies with Hmong healers. Center for Human Ecology Studies of Highlands (CHESH), Laos PDR
 `2012`	Organic Participatory Guarantee System (PGS). Agriculture Development Denmark Asia (ADDA) & Vietnam Farmers Union (VNFU) collaborative project, Vietnam 
 
-##SERVICE TO PROFESSION
+## SERVICE TO PROFESSION
 
 `2015-2016`	Technical review group, IUCN World Conservation Congress, Hawai’i
 `2011`	Panel organizer, Special Workshop; Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region, 17th IFOAM OWC, Republic of Korea
 `2010`	Editorial staff, Journal of Agriculture in the Rural Tropics and Subtropics (JARTS)
 `2009-2010`	Scientific editorial staff, German Institute for Tropical and Subtropical Agriculture (DITSL)
 
-###Memberships/ Affiliations: 
+### Memberships/ Affiliations: 
 
 Society of Ethnobiology / Society for Human Ecology / Society for Economic Botany / Botanical Society of America / International Union for Conservation of Nature, Sustainable Use and Livelihoods Specialist Group / Council for Tropical and Subtropical Agricultural Research (ATSAF) / Society for Applied Anthropology
 
@@ -161,13 +161,13 @@ Student council/ ambassador:
 `2000-2001`	Americorps Vermont
 
 
-##LANGUAGES
+## LANGUAGES
 
 `English`	Native speaker
 `German` (fluent)	Institute für Sprachvermittlung und Internationalen Kulturaustausch, Bonn, Germany
 `French` (intermediate)	The French Class, San Francisco / Le Département d'Etudes de Français Langue Etrangère de l'Université Michel de Montaigne, Bordeaux 3, France
 
-##References available upon request
+## References available upon request
 
 
 <!-- ### Footer
