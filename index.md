@@ -1,61 +1,74 @@
 ---
 layout: cv
-title: Cory Whitney
+title: Cory Whitney's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cory Whitney
+
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cory.whitney@uni-bonn.de">cory.whitney@uni-bonn.de</a>
+| <a href="https://cwwhitney.github.io">My GitHub web page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Department of Horticultural Sciences, University of Bonn
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Seeking solutions to the interconnected issues of loss of biodiversity, loss of traditional culture, and food insecurity.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+decision theory, human ecology, ethnobotany.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`11/2014-07/2018`
+__Ph.D.__ University of Kassel, Witzenhausen, Germany
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09/2009-05/2011`
+__M.Sc. Sustainable International Agriculture / International Organic Agriculture__, University of Kassel & University of Göttingen, Germany
 
-- Sizar
+`09/2001-06/2003`
+__B.A. Human Ecology__, College of the Atlantic, Bar Harbor, Maine
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`09/1999-06/2001`
+__A.A. Natural Resources Management__, Sterling College, Vermont
 
 
 
-## Publications
+## Employment
+
+`Since 10/2016`
+__University of Bonn, Germany, Postdoctoral researcher, Institute for Horticultural Research (INRES) / Guest researcher, Center for Development Research (ZEF)__, Bonn
+
+
+`10/2016-02/2017`	
+__Research Fellow, World Agroforestry Center (ICRAF)__, Nairobi, Kenya 
+
+`11/2013-06/2017`	
+__Scientific Staff, Faculty of Life Sciences, Rhine Waal University of Applied Sciences__, Germany
+
+`04/2012-11/2013`	
+__Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social Policy and Ecology Research Institute__, Vietnam __/ Center for Human Ecology Studies of Highlands__, Laos PDR 
+
+`11/2011-04/2012`	__Consultant, Agricultural Development Denmark Asia__, Vietnam
+`04/2011-11/2011`	__International Relations Coordinator, 17th IFOAM Organic World Congress and General Assembly__, Republic of Korea
+`01/2008-03/2010`	__Consultant, Forest Stewardship Council (FSC)__, Bonn, Germany
+`12/2007-12/2008` 
+	__Growing Organic Intern, International Federation of Organic Agriculture Movements (IFOAM)__, Bonn, Germany
+`09/2007-12/2007`	__Volunteer, Willing Workers On Organic Farms (WWOOF)__, France
+`05/2002-09/2007` 
+	__Environmental Educator, American Sail Training Association (ASTA) Fleet of Tall Ships__, US
+
+
+
+## Selected Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -65,23 +78,13 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+
+## Awards
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+President, *Royal Society*, London, UK
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Associate, *French Academy of Science*, Paris, France
 
 
 <!-- ### Footer
