@@ -52,11 +52,16 @@ __Scientific Staff, Faculty of Life Sciences, Rhine Waal University of Applied S
 __Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social Policy and Ecology Research Institute__, Vietnam __/ Center for Human Ecology Studies of Highlands__, Laos PDR 
 
 `11/2011-04/2012`	__Consultant, Agricultural Development Denmark Asia__, Vietnam
+
 `04/2011-11/2011`	__International Relations Coordinator, 17th IFOAM Organic World Congress and General Assembly__, Republic of Korea
+
 `01/2008-03/2010`	__Consultant, Forest Stewardship Council (FSC)__, Bonn, Germany
+
 `12/2007-12/2008` 
 	__Growing Organic Intern, International Federation of Organic Agriculture Movements (IFOAM)__, Bonn, Germany
+	
 `09/2007-12/2007`	__Volunteer, Willing Workers On Organic Farms (WWOOF)__, France
+
 `05/2002-09/2007` 
 	__Environmental Educator, American Sail Training Association (ASTA) Fleet of Tall Ships__, US
 
