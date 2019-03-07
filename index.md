@@ -103,11 +103,17 @@ Agriculture and Human Values / Agroforestry Systems / Applied Economics / Earthâ
 ## Awards
 
 `2016`	*Promotion des Monats*. Nachhaltige Forschung an Fachhochschulen in NRW 
+
 `2013`	*Ph.D. Funding*. Screening Crop Varieties Against Post Harvest Losses, German Federal Ministry of Education and Research (BMBF)
+
 `2010`	*Funding for ethnoecology fieldwork in Iceland and the Faroe Islands*, Partridge Foundation
+
 `2009`	*MSc. Funding*. Partridge Foundation, Trans Atlantic Partnership in Sustainable Food Systems 
+
 `2004`	*ASTA Sail Training Program of the Year Award* (crew of Lettie G. Howard). American Sail Training Association (ASTA), Seattle, Washington
+
 `2003`	*Best Exhibit Award*. Dorr Museum of Natural History. Bar Harbor, Maine
+
 `2000`	*AmeriCorps Education Award*. AmeriCorps Vermont, Burlington, Vermont
 
 ## Teaching experience
