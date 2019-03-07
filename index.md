@@ -93,17 +93,46 @@ Whitney, C., Vang Sin, M., Lê Hồng, G., Can, V., Barber, K., Lanh, T. Learnin
 	
 Gebauer, J., Whitney, C., Tabuti, J. First record of baobab (Adansonia digitata L.) in Uganda. Genetic Resources and Crop Evolution. 63(5), 755-762. doi: 10.1007/s10722-016-0387-y
 
+###Reviews
+
+<!-- A list is also available [publons](publons.com/a/462597/) -->
+
+Agriculture and Human Values / Agroforestry Systems / Applied Economics / Earth’s Future / Environment, Development and Sustainability / Ethnobotany Research and Applications / Experimental Agriculture / Food Security / Human Ecology / Human Ecology Review / International Journal of Social Economics / Land Use Policy / Peer J
+
+`2018`	Whitney, C., Why the Porcupine is Not a Bird. Ethnobiology Letters, 9(2), 103-104. doi:10.14237/ebl.9.2.2018.1204.
+
+`2015`	Whitney, C., Trees for Gardens, Orchards, and Permaculture. Economic Botany; Book Reviews, 98-99.
+
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`	*Promotion des Monats*. Nachhaltige Forschung an Fachhochschulen in NRW 
+`2013`	*Ph.D. Funding*. Screening Crop Varieties Against Post Harvest Losses, German Federal Ministry of Education and Research (BMBF)
+`2010`	*Funding for ethnoecology fieldwork in Iceland and the Faroe Islands*, Partridge Foundation
+`2009`	*MSc. Funding*. Partridge Foundation, Trans Atlantic Partnership in Sustainable Food Systems 
+`2004`	*ASTA Sail Training Program of the Year Award* (crew of Lettie G. Howard). American Sail Training Association (ASTA), Seattle, Washington
+`2003`	*Best Exhibit Award*. Dorr Museum of Natural History. Bar Harbor, Maine
+`2000`	*AmeriCorps Education Award*. AmeriCorps Vermont, Burlington, Vermont
 
-Associate, *French Academy of Science*, Paris, France
+## Teaching experience
+
+`2016`	*Promotion des Monats*. Nachhaltige Forschung an Fachhochschulen in NRW 
+
+`2018-2019`	Invited lectures on 'Introduction to R', 'Introduction to Modeling’, and 'Complex Systems Modeling', The Bonn International Graduate School for Development Research (BIGS-DR), Center for Development Research (ZEF), University of Bonn, Germany
+`2018`	Invited Lecture on ‘Decision Theory and Development Research’, University of Cambridge, Cambridge Conservation Initiative (CCI), England
+`2014-2015`	Invited lectures in 'Sustainable Agricultural Production Systems with Special Focus on Horticulture', Faculty of Life Sciences, Rhine Waal University of Applied Sciences, Germany
+`2014`	Invited field course instructor, Mabira forest biodiversity, College of Agricultural and Environmental Sciences, Makerere University, Uganda
+__American Sail Training Association (ASTA) Fleet of Tall Ships__
+`2006-2007`	Instructor/ Mate/ Captain, Call of the Sea, SSV. Schooner Seaward, Sausalito, California	
+`2004-2006` 
+	Environmental Educator, Catalina Island Marie Institute (CIMI), Tall-ship program, SSV. Schooner Tole Mour, California	
+`2003-2004`	Marine Educator, New York City Maritime Museum/ New York Harbor School, SSV. Schooner Lettie G. Howard, New York	
+`2002-2003`	Instructor, Hurricane Island Outward Bound School, Maine	
+`2002`	Professor’s Assistant in Japanese Sustainable Systems, Sterling College, Vermont / Hokkaido, Japan.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2019 -->
 
 
