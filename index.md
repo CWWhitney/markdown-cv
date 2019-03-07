@@ -66,9 +66,6 @@ __Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social
 
 [orcid.org/0000-0003-4988-4583](orcid.org/0000-0003-4988-4583)
 
-<div id="webaddress"> <a href="orcid.org/0000-0003-4988-4583">orcid.org/0000-0003-4988-4583</a>
-</div>
-
 ### Refereed Journal Articles
 
 `2019`
@@ -94,7 +91,7 @@ Gebauer, J., Whitney, C., Tabuti, J. First record of baobab (Adansonia digitata 
 
 ### Reviews
 
-<!-- A list is also available [publons](publons.com/a/462597/) -->
+[publons.com/a/462597/](publons.com/a/462597/)
 
 Agriculture and Human Values / Agroforestry Systems / Applied Economics / Earth’s Future / Environment, Development and Sustainability / Ethnobotany Research and Applications / Experimental Agriculture / Food Security / Human Ecology / Human Ecology Review / International Journal of Social Economics / Land Use Policy / Peer J
 
@@ -152,7 +149,7 @@ __American Sail Training Association (ASTA) Fleet of Tall Ships__
 
 `2012`	Organic Participatory Guarantee System (PGS). Agriculture Development Denmark Asia (ADDA) & Vietnam Farmers Union (VNFU) collaborative project, Vietnam 
 
-## SERVICE TO PROFESSION
+## Service to Profession
 
 `2015-2016`	Technical review group, IUCN World Conservation Congress, Hawai’i
 
@@ -179,15 +176,18 @@ Student council/ ambassador:
 `2000-2001`	Americorps Vermont
 
 
-## LANGUAGES
+## Languages
 
-`English`	Native speaker
+### English
+Native speaker
 
-`German` (fluent)	Institute für Sprachvermittlung und Internationalen Kulturaustausch, Bonn, Germany
+### German
+(fluent)	Institute für Sprachvermittlung und Internationalen Kulturaustausch, Bonn, Germany
 
-`French` (intermediate)	The French Class, San Francisco / Le Département d'Etudes de Français Langue Etrangère de l'Université Michel de Montaigne, Bordeaux 3, France
+### French
+(intermediate)	The French Class, San Francisco / Le Département d'Etudes de Français Langue Etrangère de l'Université Michel de Montaigne, Bordeaux 3, France
 
-## References available upon request
+__References available upon request__
 
 
 <!-- ### Footer
