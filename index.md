@@ -42,15 +42,6 @@ __A.A. Natural Resources Management__, Sterling College, Vermont
 
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 ## Employment
 
 `Since 10/2016`
@@ -67,8 +58,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
@@ -76,6 +65,14 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
 <!-- ### Footer
