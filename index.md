@@ -68,15 +68,30 @@ __Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social
 
 ## Selected Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [orcid](orcid.org/0000-0003-4988-4583) -->
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+###Refereed Journal Articles
 
-`1669`
-Lectiones opticæ.
+`2019`
+Lanzanova, D., Whitney, C., Shepherd, K., Luedeling, E. Improving development efficiency through decision analysis: reservoir protection in Burkina Faso. 115, 164-175. doi: 10.1016/j.envsoft.2019.01.016
 
-etc. etc. etc.
+`2018`
+Whitney, C., Luedeling, E., Hensel, O., Tabuti, J., Krawinkel, M., Gebauer, J., and Kehlenbeck, K. The Role of Homegardens for Food and Nutrition Security in Uganda. Human Ecology, 46(4), 497-514. doi: 10.1007/s10745-018-0008-9
+
+Whitney, C., Lanzanova, D., Muchiri, C., Shepherd, K., Rosenstock, T., Krawinkel, M., Tabuti, J., Luedeling, E. Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition. Earth’s Future. 6(3), 359-372. doi: 10.1002/2017EF000765/full
+
+Whitney, C., Bahati, J., Gebauer, J. Ethnobotany and agrobiodiversity; valuation of plants in the homegardens of southwestern Uganda. Ethnobiology Letters. 9(2), 90-100. doi: 10.14237/ebl.9.2.2018.503
+
+`2017`	
+Whitney, C., Tabuti, J., Hensel, O., Yeh, C., Bahati, J., Gebauer, J., Luedeling, E. Homegardens and the future of food and nutrition security in southwest Uganda, Agricultural Systems. 154, 133-144 doi: 10.1016/j.agsy.2017.03.009
+	
+Whitney, C., Luedeling, E., Tabuti, J., Nyamukuru, A., Hensel, O., Gebauer, J., Kehlenbeck, K. Crop diversity in homegardens of southwest Uganda and its importance for rural livelihoods. Agriculture and Human Values. 35(2), 399-424. doi: 10.1007/s10460-017-9835-3
+
+`2016`	
+
+Whitney, C., Vang Sin, M., Lê Hồng, G., Can, V., Barber, K., Lanh, T. Learning with elders; human ecology and ethnobotany explorations in northern and central Vietnam. Human Organization. 75(1), 71-86.
+	
+Gebauer, J., Whitney, C., Tabuti, J. First record of baobab (Adansonia digitata L.) in Uganda. Genetic Resources and Crop Evolution. 63(5), 755-762. doi: 10.1007/s10722-016-0387-y
 
 
 ## Awards
