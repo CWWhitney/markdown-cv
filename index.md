@@ -16,12 +16,8 @@ title: Cory Whitney's CV
 
 Department of Horticultural Sciences, University of Bonn
 
-Seeking solutions to the interconnected issues of loss of biodiversity, loss of traditional culture, and food insecurity.
-
-
 ### Research interests
-
-decision theory, human ecology, ethnobotany.
+Seeking solutions to the interconnected issues of loss of biodiversity, loss of traditional culture, and food insecurity. Working in the fields of decision theory, human ecology and ethnobotany.
 
 
 ## Education
@@ -42,14 +38,14 @@ __A.A. Natural Resources Management__, Sterling College, Vermont
 
 ## Employment
 
-`Since 10/2016`
+### Since 10/2016
 __University of Bonn, Germany, Postdoctoral researcher, Institute for Horticultural Research (INRES) / Guest researcher, Center for Development Research (ZEF)__, Bonn
 
 
-`10/2016-02/2017`	
+### 10/2016-02/2017	
 __Research Fellow, World Agroforestry Center (ICRAF)__, Nairobi, Kenya 
 
-`11/2013-06/2017`	
+### 11/2013-06/2017 
 __Scientific Staff, Faculty of Life Sciences, Rhine Waal University of Applied Sciences__, Germany
 
 `04/2012-11/2013`	
