@@ -130,6 +130,45 @@ __American Sail Training Association (ASTA) Fleet of Tall Ships__
 `2002-2003`	Instructor, Hurricane Island Outward Bound School, Maine	
 `2002`	Professor’s Assistant in Japanese Sustainable Systems, Sterling College, Vermont / Hokkaido, Japan.
 
+## Research experience
+
+`2016`
+
+`Present`	Transdisciplinary modeling, phenology and chill requirements for fruit trees. Phenological And Social Impacts of Temperature increase (PASIT), German Federal Ministry of Education and Research (BMBF)
+`2016-2017`	Decision modeling, nutrition outcomes of agriculture policy. Innovative Methods and Metrics for Agriculture and Nutrition Actions (IMMANA) research initiative, UK Department for International Development (DFID) 
+`2013-2016`	Agroecology research in southwestern Uganda. German Federal Ministry of Education and Research (BMBF), Global Food Security (GlobE), Reduction of Post Harvest Losses and Value Addition in East African Food Value Chains (RELOAD) 
+`2013`	Ethnobotany studies with indigenous communities. Human Ecology Practice Area (HEPA), Mekong Community for Ecological Trading (MECO-ECOTRA) and Social Policy and Ecology Research Institute (SPERI), Vietnam
+`2012`	Ethnobotany studies with Hmong healers. Center for Human Ecology Studies of Highlands (CHESH), Laos PDR
+`2012`	Organic Participatory Guarantee System (PGS). Agriculture Development Denmark Asia (ADDA) & Vietnam Farmers Union (VNFU) collaborative project, Vietnam 
+
+##SERVICE TO PROFESSION
+
+`2015-2016`	Technical review group, IUCN World Conservation Congress, Hawai’i
+`2011`	Panel organizer, Special Workshop; Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region, 17th IFOAM OWC, Republic of Korea
+`2010`	Editorial staff, Journal of Agriculture in the Rural Tropics and Subtropics (JARTS)
+`2009-2010`	Scientific editorial staff, German Institute for Tropical and Subtropical Agriculture (DITSL)
+
+###Memberships/ Affiliations: 
+
+Society of Ethnobiology / Society for Human Ecology / Society for Economic Botany / Botanical Society of America / International Union for Conservation of Nature, Sustainable Use and Livelihoods Specialist Group / Council for Tropical and Subtropical Agricultural Research (ATSAF) / Society for Applied Anthropology
+
+Student council/ ambassador: 
+
+`2015-2017`	Society for Economic Botany (SEB)
+`2009-2010`	Trans Atlantic Partnership in Sustainable Food Systems
+`2000-2001`	Work Colleges Consortium
+`2000-2001`	North American Alliance for Green Education (NAAGE)
+`2000-2001`	Americorps Vermont
+
+
+##LANGUAGES
+
+`English`	Native speaker
+`German` (fluent)	Institute für Sprachvermittlung und Internationalen Kulturaustausch, Bonn, Germany
+`French` (intermediate)	The French Class, San Francisco / Le Département d'Etudes de Français Langue Etrangère de l'Université Michel de Montaigne, Bordeaux 3, France
+
+##References available upon request
+
 
 <!-- ### Footer
 
