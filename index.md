@@ -64,7 +64,8 @@ __Bio-Human Ecology Researcher, Mekong Community for Ecological Trading / Social
 
 ## Selected Publications
 
-<!-- A list is also available [orcid](orcid.org/0000-0003-4988-4583) -->
+<div id="webaddress"> <a href="orcid.org/0000-0003-4988-4583">Orcid</a>
+</div>
 
 ### Refereed Journal Articles
 
