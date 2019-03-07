@@ -115,33 +115,48 @@ Agriculture and Human Values / Agroforestry Systems / Applied Economics / Earth�
 `2016`	*Promotion des Monats*. Nachhaltige Forschung an Fachhochschulen in NRW 
 
 `2018-2019`	Invited lectures on 'Introduction to R', 'Introduction to Modeling’, and 'Complex Systems Modeling', The Bonn International Graduate School for Development Research (BIGS-DR), Center for Development Research (ZEF), University of Bonn, Germany
+
 `2018`	Invited Lecture on ‘Decision Theory and Development Research’, University of Cambridge, Cambridge Conservation Initiative (CCI), England
+
 `2014-2015`	Invited lectures in 'Sustainable Agricultural Production Systems with Special Focus on Horticulture', Faculty of Life Sciences, Rhine Waal University of Applied Sciences, Germany
+
 `2014`	Invited field course instructor, Mabira forest biodiversity, College of Agricultural and Environmental Sciences, Makerere University, Uganda
+
 __American Sail Training Association (ASTA) Fleet of Tall Ships__
+
 `2006-2007`	Instructor/ Mate/ Captain, Call of the Sea, SSV. Schooner Seaward, Sausalito, California	
+
 `2004-2006` 
 	Environmental Educator, Catalina Island Marie Institute (CIMI), Tall-ship program, SSV. Schooner Tole Mour, California	
+	
 `2003-2004`	Marine Educator, New York City Maritime Museum/ New York Harbor School, SSV. Schooner Lettie G. Howard, New York	
-`2002-2003`	Instructor, Hurricane Island Outward Bound School, Maine	
+
+`2002-2003`	Instructor, Hurricane Island Outward Bound School, Maine
+
 `2002`	Professor’s Assistant in Japanese Sustainable Systems, Sterling College, Vermont / Hokkaido, Japan.
 
 ## Research experience
 
-`2016`
-
 `Present`	Transdisciplinary modeling, phenology and chill requirements for fruit trees. Phenological And Social Impacts of Temperature increase (PASIT), German Federal Ministry of Education and Research (BMBF)
+
 `2016-2017`	Decision modeling, nutrition outcomes of agriculture policy. Innovative Methods and Metrics for Agriculture and Nutrition Actions (IMMANA) research initiative, UK Department for International Development (DFID) 
+
 `2013-2016`	Agroecology research in southwestern Uganda. German Federal Ministry of Education and Research (BMBF), Global Food Security (GlobE), Reduction of Post Harvest Losses and Value Addition in East African Food Value Chains (RELOAD) 
+
 `2013`	Ethnobotany studies with indigenous communities. Human Ecology Practice Area (HEPA), Mekong Community for Ecological Trading (MECO-ECOTRA) and Social Policy and Ecology Research Institute (SPERI), Vietnam
+
 `2012`	Ethnobotany studies with Hmong healers. Center for Human Ecology Studies of Highlands (CHESH), Laos PDR
+
 `2012`	Organic Participatory Guarantee System (PGS). Agriculture Development Denmark Asia (ADDA) & Vietnam Farmers Union (VNFU) collaborative project, Vietnam 
 
 ## SERVICE TO PROFESSION
 
 `2015-2016`	Technical review group, IUCN World Conservation Congress, Hawai’i
+
 `2011`	Panel organizer, Special Workshop; Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region, 17th IFOAM OWC, Republic of Korea
+
 `2010`	Editorial staff, Journal of Agriculture in the Rural Tropics and Subtropics (JARTS)
+
 `2009-2010`	Scientific editorial staff, German Institute for Tropical and Subtropical Agriculture (DITSL)
 
 ### Memberships/ Affiliations: 
@@ -151,16 +166,22 @@ Society of Ethnobiology / Society for Human Ecology / Society for Economic Botan
 Student council/ ambassador: 
 
 `2015-2017`	Society for Economic Botany (SEB)
+
 `2009-2010`	Trans Atlantic Partnership in Sustainable Food Systems
+
 `2000-2001`	Work Colleges Consortium
+
 `2000-2001`	North American Alliance for Green Education (NAAGE)
+
 `2000-2001`	Americorps Vermont
 
 
 ## LANGUAGES
 
 `English`	Native speaker
+
 `German` (fluent)	Institute für Sprachvermittlung und Internationalen Kulturaustausch, Bonn, Germany
+
 `French` (intermediate)	The French Class, San Francisco / Le Département d'Etudes de Français Langue Etrangère de l'Université Michel de Montaigne, Bordeaux 3, France
 
 ## References available upon request
